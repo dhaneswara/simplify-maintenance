@@ -1,3 +1,5 @@
-# simplify-maintenance
+# Cloud Data Analytics Platform maintenance scripts 
 
-<h1>Collection of scripts for maintenance use for a Data Analytics Platform</h1>
+Covers the following tools:
+- Microsoft Power BI
+- Azure Purview
